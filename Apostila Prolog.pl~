@@ -1,7 +1,0 @@
-oracao --> nome(Tempo), acao(Tempo).
-nome(singular) --> [futebol].
-nome(singular) --> [felipe].
-acao(Tempo) --> verbo(Tempo), nome(Tempo).
-verbo(singular) --> [joga].
-verbo(plural) --> [jogam].
-positivo --> [X], {integer(X), X>0}.
